@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: chocolate;
+}
+
+.container {
+    width: 80%;
+    height: 90%;
+    margin: 20px auto;
+    background-color: brown;
+}
+
+h1 {
+    color: cyan;
+    text-align: center;
+    text-decoration: underline;
+}
