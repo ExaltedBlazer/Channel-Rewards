@@ -10,10 +10,25 @@
     height: 90%;
     margin: 20px auto;
     background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 h1 {
-    color: cyan;
+    color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: underline;
+}
+
+.div-index-button {
+    border-radius: 50%;
+    text-decoration: underline;
+    text-align: center;
+    margin: 20px auto;
+    width: 25%;
+}
+
+.index-button {
+    background-color: darkolivegreen;
+    border: none;
 }
